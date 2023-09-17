@@ -1,1 +1,1 @@
-# promptrock-paper-scissors
+# prompt로 하는 rock-paper-scissors
